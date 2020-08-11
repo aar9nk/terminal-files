@@ -2,9 +2,9 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
-# DO NOT EDIT UP UNTIL YOU REACH THE BOTTOM OF THE FILE
-# DO NOT EDIT UP UNTIL YOU REACH THE BOTTOM OF THE FILE
-# DO NOT EDIT UP UNTIL YOU REACH THE BOTTOM OF THE FILE
+# DO NOT EDIT UNTIL YOU REACH THE BOTTOM OF THE FILE
+# DO NOT EDIT UNTIL YOU REACH THE BOTTOM OF THE FILE
+# DO NOT EDIT UNTIL YOU REACH THE BOTTOM OF THE FILE
 
 # If not running interactively, don't do anything
 case $- in
