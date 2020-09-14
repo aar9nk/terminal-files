@@ -11,7 +11,7 @@ This will give you:
 An updated terminal window, you will now see just your username as well as the current directory git information in a git repository, like on udacity, you should see the branch name when you are in a git repository. <br>
 The open command, which can open a file in its default program, for example, `open index.html`<br>
 
-**Now that this is complete:**
+**Now that this is complete:**<br>
 Do not edit or create .bash_profile , even if a udacity course says to! <br>
 Make any changes that udacity says to go in .bash_profile, in .bashrc! <br>
 REPEAT: .bashrc IS NOW YOUR .bash_profile!<br>
