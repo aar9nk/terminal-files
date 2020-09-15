@@ -1,5 +1,5 @@
 # terminal-files
-Replace your Ubuntu files with these and we can use them as a default!
+Replace your Ubuntu files with these and we can use them as a default!<br>
 **🛠️ Commands**
 1. Close any open ubuntu windows
 2. Open ubuntu
